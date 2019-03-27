@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teehohhew.bloomingtonradio.org/sitemap.xml
